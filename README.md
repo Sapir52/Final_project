@@ -24,6 +24,7 @@ The project is based on the NLP method that allows the creation of a prediction 
 * In order to identify the importance  of words and word groups, various algorithms were run from the NetworkX library. In addition, K-means and Text-Rank.   
 * Finally, the frequency of word occurrence was predicted using a neural network by creating models for words and clusters.
 
+![pip2](https://user-images.githubusercontent.com/63209732/123264051-52c19000-d502-11eb-8171-0cd836c9170d.png)
 
 # results
 The results of the model prediction for the different types of vector representation.
