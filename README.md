@@ -19,11 +19,13 @@ The project is based on the NLP method that allows the creation of a prediction 
 
 # Pipeline 
 Arranging the ads by time of publication and division into time windows.  
-Pre-processing of the text which included division into sentences, tokenization, removal of stop words, removal of special characters and creation of multiple-words.                                               
-Words and phrases were represented as vectors by two methods: TF-IDF and Word2Vec.                                       
+Pre-processing of the text which included division into sentences, tokenization, removal of stop words, removal of special characters and creation of multiple-words.                                 
+Words and phrases were represented as vectors by two methods: TF-IDF and Word2Vec.                   
 In order to identify the importance  of words and word groups, various algorithms were run from the NetworkX library. 
 In addition, K-means and Text-Rank.                                                                 
 Finally, the frequency of word occurrence was predicted using a neural network by creating models for words and clusters.
+
+![Pip1](https://user-images.githubusercontent.com/63209732/123251917-6403a000-d4f4-11eb-9801-820621afd1a6.png)
 
 # results
 The results of the model prediction for the different types of vector representation.
