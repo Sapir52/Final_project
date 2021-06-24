@@ -32,6 +32,8 @@ The results of the model prediction for the different types of vector representa
 
 The model evaluation is based on the results of various regression-type loss functions.
 
+* Note: Models whose loss function is pink are very flat predicted.
+
 Words prediction:
 
 ![TAB11](https://user-images.githubusercontent.com/63209732/123255952-13427600-d4f9-11eb-8692-7fa6b77f2ba1.png)
