@@ -32,10 +32,11 @@ The results of the model prediction for the different types of vector representa
 
 The model evaluation is based on the results of various regression-type loss functions.
 
-Words prediction
+Words prediction:
 
-![tab1](https://user-images.githubusercontent.com/63209732/123254256-1ccade80-d4f7-11eb-891e-534abaea4adf.png)
+![TAB11](https://user-images.githubusercontent.com/63209732/123255952-13427600-d4f9-11eb-8692-7fa6b77f2ba1.png)
 
-Clusters prediction
+Clusters prediction:
 
-![tab2](https://user-images.githubusercontent.com/63209732/123254262-1dfc0b80-d4f7-11eb-81b0-f5979508875b.png)
+![TAB22](https://user-images.githubusercontent.com/63209732/123255966-15a4d000-d4f9-11eb-94a1-698cb0ca472b.png)
+
