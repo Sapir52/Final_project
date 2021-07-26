@@ -8,7 +8,6 @@ The final result of the process is predicting future values of the words based o
 Another goal is to characterize which words/ terms are similar to each other by using clusters.
 
 # DataSet 
-
 The project is based on a database containing job vacancies in the Israeli high-tech field taken from 
 four different sites: LinkedIn, Glassdoor, AllJobs, JobMaster. 
 The database built lists 11 titles and contains over 1000 job ads in Israeli high-tech. 
