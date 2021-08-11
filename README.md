@@ -12,7 +12,7 @@ The project is based on a database containing job vacancies in the Israeli high-
 four different sites: LinkedIn, Glassdoor, AllJobs, JobMaster. 
 The database built lists 11 titles and contains over 1000 job ads in Israeli high-tech. 
 
-# method
+# Method
 The project is based on the NLP method that allows the creation of a prediction model by LSTM.
 
 # Pipeline 
@@ -24,7 +24,7 @@ The project is based on the NLP method that allows the creation of a prediction 
 
 ![pip2](https://user-images.githubusercontent.com/63209732/123264051-52c19000-d502-11eb-8171-0cd836c9170d.png)
 
-# results
+# Results
 The results of the model prediction for the different types of vector representation.
 
 The model evaluation is based on the results of various regression-type loss functions.
