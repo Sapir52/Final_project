@@ -1,5 +1,6 @@
 # Microtrends in hightech job ads 
 
+
 # The project's target
 The goal of the project is to develop a model for identifying trends in job ads in Israeli high-tech.   
 The model will enable the forecasting of the skills required for graduates and professionals to find work in the Israeli high-tech field, 
